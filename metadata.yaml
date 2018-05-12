@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '34630'
     url: http://www.gutenberg.org/2009/agents/34630
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30476#Zero-Hour
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-11-14'
 gutenberg_type: Text
