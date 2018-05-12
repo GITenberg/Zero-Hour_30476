@@ -1,0 +1,34 @@
+_repo: Zero-Hour_30476
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rognan, Lloyd
+    alias: Rognan, Lloyd Norman
+    birthdate: 1923
+    deathdate: 2005
+    gutenberg_agent_id: '34631'
+    url: http://www.gutenberg.org/2009/agents/34631
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blade, Alexander
+    gutenberg_agent_id: '34630'
+    url: http://www.gutenberg.org/2009/agents/34630
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30476'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Zero Hour
+url: http://www.gutenberg.org/ebooks/30476
